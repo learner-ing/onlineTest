@@ -34,6 +34,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1aZQzqYScxzHUvxaOCo2GfDAUFa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -67,7 +68,7 @@
       <updated>1586940902306</updated>
       <workItem from="1586940905468" duration="41000" />
       <workItem from="1587006616975" duration="4810000" />
-      <workItem from="1587011447410" duration="18079000" />
+      <workItem from="1587011447410" duration="18678000" />
     </task>
     <servers />
   </component>
