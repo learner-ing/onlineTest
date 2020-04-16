@@ -1,0 +1,3399 @@
+---------------------------------------------------------------
+
+[2020-04-16T11:33:01+08:00] 127.0.0.1 GET 127.0.0.1/
+[ error ] [1]Class 'think\validate' not found
+---------------------------------------------------------------
+
+[2020-04-16T11:37:13+08:00] 127.0.0.1 GET 127.0.0.1/login
+[运行时间：0.036126s] [吞吐率：27.68req/s] [内存消耗：1,218.55kb] [文件加载：51]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T11:39:20+08:00] 127.0.0.1 GET 127.0.0.1/login
+[运行时间：0.025356s] [吞吐率：39.44req/s] [内存消耗：1,144.37kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T11:39:22+08:00] 127.0.0.1 GET 127.0.0.1/login
+[运行时间：0.026421s] [吞吐率：37.85req/s] [内存消耗：1,144.37kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T11:39:23+08:00] 127.0.0.1 GET 127.0.0.1/login
+[运行时间：0.022818s] [吞吐率：43.83req/s] [内存消耗：1,144.37kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T11:39:42+08:00] 127.0.0.1 GET 127.0.0.1/login
+[运行时间：0.023815s] [吞吐率：41.99req/s] [内存消耗：1,145.44kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T11:39:43+08:00] 127.0.0.1 GET 127.0.0.1/login
+[运行时间：0.025947s] [吞吐率：38.54req/s] [内存消耗：1,145.44kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T11:40:36+08:00] 127.0.0.1 GET 127.0.0.1/login
+[运行时间：0.026079s] [吞吐率：38.35req/s] [内存消耗：1,145.44kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T11:42:08+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.037216s] [吞吐率：26.87req/s] [内存消耗：1,757.73kb] [文件加载：65]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+[ error ] [1]Class 'think\validate' not found[C:\xampp\test\application\index\Validate\User.php:8]
+---------------------------------------------------------------
+
+[2020-04-16T11:44:18+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.048902s] [吞吐率：20.45req/s] [内存消耗：1,825.91kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T11:44:21+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.036124s] [吞吐率：27.68req/s] [内存消耗：1,825.91kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T11:45:23+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.036726s] [吞吐率：27.23req/s] [内存消耗：1,825.78kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T11:45:56+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.036355s] [吞吐率：27.51req/s] [内存消耗：1,904.30kb] [文件加载：65]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+[ error ] [0]类型错误: Too few arguments to function think\Validate::message(), 0 passed in C:\xampp\test\application\index\controller\Index.php on line 18 and at least 1 expected[C:\xampp\test\thinkphp\library\think\Validate.php:274]
+---------------------------------------------------------------
+
+[2020-04-16T11:46:10+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.032771s] [吞吐率：30.51req/s] [内存消耗：1,825.91kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T11:47:39+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.038773s] [吞吐率：25.79req/s] [内存消耗：1,839.45kb] [文件加载：61]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T11:49:38+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.047823s] [吞吐率：20.91req/s] [内存消耗：1,844.08kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T11:50:27+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.039177s] [吞吐率：25.53req/s] [内存消耗：1,844.09kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T11:52:28+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.039718s] [吞吐率：25.18req/s] [内存消耗：1,844.40kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T11:58:52+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.035872s] [吞吐率：27.88req/s] [内存消耗：1,846.16kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T11:59:14+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.043784s] [吞吐率：22.84req/s] [内存消耗：1,846.16kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T12:05:28+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.042421s] [吞吐率：23.57req/s] [内存消耗：1,846.16kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T12:40:44+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.043743s] [吞吐率：22.86req/s] [内存消耗：1,739.17kb] [文件加载：64]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+[ error ] [2]Declaration of app\index\controller\Index::success($data, $code) should be compatible with think\Controller::success($msg = '', $url = NULL, $data = '', $wait = 3, array $header = Array)[C:\xampp\test\application\index\controller\Index.php:7]
+---------------------------------------------------------------
+
+[2020-04-16T13:18:54+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.031640s] [吞吐率：31.61req/s] [内存消耗：1,851.51kb] [文件加载：62]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '598033097',
+  'password' => '123',
+  'remenber_me' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T13:46:58+08:00] 127.0.0.1 GET 127.0.0.1/register.html
+[运行时间：0.023274s] [吞吐率：42.97req/s] [内存消耗：1,146.27kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T13:47:03+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.017257s] [吞吐率：57.95req/s] [内存消耗：1,146.23kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T13:52:36+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.036528s] [吞吐率：27.38req/s] [内存消耗：1,695.10kb] [文件加载：61]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '102',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '12345',
+  'role' => 'admin',
+)
+---------------------------------------------------------------
+
+[2020-04-16T13:52:54+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.027016s] [吞吐率：37.01req/s] [内存消耗：1,695.02kb] [文件加载：61]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '102',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '12345',
+  'role' => 'admin',
+)
+---------------------------------------------------------------
+
+[2020-04-16T13:53:09+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.023334s] [吞吐率：42.86req/s] [内存消耗：1,857.64kb] [文件加载：63]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '104',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '12345',
+  'role' => 'student',
+)
+---------------------------------------------------------------
+
+[2020-04-16T13:53:46+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.023906s] [吞吐率：41.83req/s] [内存消耗：1,857.65kb] [文件加载：63]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '104',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '12345',
+  'role' => 'student',
+)
+---------------------------------------------------------------
+
+[2020-04-16T13:54:12+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.059593s] [吞吐率：16.78req/s] [内存消耗：3,084.70kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001943s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.004531s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`email` , `password` , `role`) VALUES ('314591352@qq.com' , '123456' , 'student') [ RunTime:0.000909s ]
+---------------------------------------------------------------
+
+[2020-04-16T13:55:14+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.056646s] [吞吐率：17.65req/s] [内存消耗：3,084.81kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000782s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.003636s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`email` , `password` , `role`) VALUES ('314591352@qq.com' , '123456' , 'student') [ RunTime:0.000640s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:02:21+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.061833s] [吞吐率：16.17req/s] [内存消耗：3,085.71kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000902s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012586s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352@qq.com' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.002096s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:02:40+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.065315s] [吞吐率：15.31req/s] [内存消耗：3,085.74kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010116s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.005542s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352@qq.com' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.001369s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:04:07+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.061487s] [吞吐率：16.26req/s] [内存消耗：3,085.66kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '97',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010875s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011222s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352m' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.001172s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:04:49+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.055110s] [吞吐率：18.15req/s] [内存消耗：3,085.68kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '97',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001066s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011214s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352m' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.000659s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:05:08+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.027130s] [吞吐率：36.86req/s] [内存消耗：1,695.07kb] [文件加载：61]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '95',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'admin',
+)
+---------------------------------------------------------------
+
+[2020-04-16T14:08:07+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.028024s] [吞吐率：35.68req/s] [内存消耗：1,858.54kb] [文件加载：63]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '79',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '1',
+)
+---------------------------------------------------------------
+
+[2020-04-16T14:09:18+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.059177s] [吞吐率：16.90req/s] [内存消耗：3,138.99kb] [文件加载：80]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '84',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010802s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.003819s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'role' cannot be null[C:\xampp\test\thinkphp\library\think\db\Connection.php:764]
+---------------------------------------------------------------
+
+[2020-04-16T14:10:10+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.066557s] [吞吐率：15.02req/s] [内存消耗：3,139.09kb] [文件加载：80]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '84',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011209s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011095s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'role' cannot be null[C:\xampp\test\thinkphp\library\think\db\Connection.php:764]
+---------------------------------------------------------------
+
+[2020-04-16T14:10:11+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.059872s] [吞吐率：16.70req/s] [内存消耗：3,139.05kb] [文件加载：80]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '84',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010663s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.010717s ]
+[ error ] [10501]SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'role' cannot be null[C:\xampp\test\thinkphp\library\think\db\Connection.php:764]
+---------------------------------------------------------------
+
+[2020-04-16T14:10:25+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.024575s] [吞吐率：40.69req/s] [内存消耗：1,858.67kb] [文件加载：63]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '84',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+)
+---------------------------------------------------------------
+
+[2020-04-16T14:10:50+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.025003s] [吞吐率：40.00req/s] [内存消耗：1,858.68kb] [文件加载：63]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '84',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+)
+---------------------------------------------------------------
+
+[2020-04-16T14:11:05+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.058747s] [吞吐率：17.02req/s] [内存消耗：3,086.49kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '91',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'a',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010722s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011554s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352m' , 'e10adc3949ba59abbe56e057f20f883e' , 'a') [ RunTime:0.000678s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:13:12+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.026499s] [吞吐率：37.74req/s] [内存消耗：1,695.77kb] [文件加载：61]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '91',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'a',
+)
+---------------------------------------------------------------
+
+[2020-04-16T14:13:21+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.066364s] [吞吐率：15.07req/s] [内存消耗：3,086.41kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '97',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010334s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012346s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352m' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.000717s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:14:13+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.059675s] [吞吐率：16.76req/s] [内存消耗：3,086.49kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '97',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010243s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011173s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352m' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.000654s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:14:14+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.052345s] [吞吐率：19.10req/s] [内存消耗：3,086.46kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '97',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010659s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.005389s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352m' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.000590s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:15:54+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.029149s] [吞吐率：34.31req/s] [内存消耗：1,858.74kb] [文件加载：63]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '97',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+---------------------------------------------------------------
+
+[2020-04-16T14:17:14+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.028950s] [吞吐率：34.54req/s] [内存消耗：1,858.74kb] [文件加载：63]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '97',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+---------------------------------------------------------------
+
+[2020-04-16T14:17:16+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.023615s] [吞吐率：42.35req/s] [内存消耗：1,858.74kb] [文件加载：63]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '97',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352m',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+---------------------------------------------------------------
+
+[2020-04-16T14:17:26+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.059883s] [吞吐率：16.70req/s] [内存消耗：3,086.58kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010656s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011402s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352@qq.com' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.000666s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:17:29+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.059338s] [吞吐率：16.85req/s] [内存消耗：3,086.61kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010574s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012007s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352@qq.com' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.000668s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:17:51+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.059791s] [吞吐率：16.72req/s] [内存消耗：3,118.80kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010730s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011413s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '314591352@qq.com' LIMIT 1 [ RunTime:0.000442s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:17:53+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.058403s] [吞吐率：17.12req/s] [内存消耗：3,118.80kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010650s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011865s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '314591352@qq.com' LIMIT 1 [ RunTime:0.000515s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:17:54+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.058583s] [吞吐率：17.07req/s] [内存消耗：3,118.81kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011117s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011141s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '314591352@qq.com' LIMIT 1 [ RunTime:0.000452s ]
+---------------------------------------------------------------
+
+[2020-04-16T14:20:21+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.020984s] [吞吐率：47.65req/s] [内存消耗：1,146.22kb] [文件加载：49]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:33:39+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.018109s] [吞吐率：55.22req/s] [内存消耗：1,116.00kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:34:40+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.015697s] [吞吐率：63.71req/s] [内存消耗：1,116.00kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:34:46+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.018224s] [吞吐率：54.87req/s] [内存消耗：1,116.00kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:36:26+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.021771s] [吞吐率：45.93req/s] [内存消耗：1,116.00kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:36:35+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.020331s] [吞吐率：49.19req/s] [内存消耗：1,116.00kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:40:01+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.020434s] [吞吐率：48.94req/s] [内存消耗：1,116.49kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:40:04+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.017725s] [吞吐率：56.42req/s] [内存消耗：1,116.48kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:42:00+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.020441s] [吞吐率：48.92req/s] [内存消耗：1,117.83kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:42:01+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.016750s] [吞吐率：59.70req/s] [内存消耗：1,117.83kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:42:02+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.016338s] [吞吐率：61.21req/s] [内存消耗：1,117.83kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:43:55+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.020791s] [吞吐率：48.10req/s] [内存消耗：1,117.78kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:43:56+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.016865s] [吞吐率：59.30req/s] [内存消耗：1,117.78kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:43:56+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.019243s] [吞吐率：51.97req/s] [内存消耗：1,117.78kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T15:44:05+08:00] 127.0.0.1 GET 127.0.0.1/
+[运行时间：0.017489s] [吞吐率：57.18req/s] [内存消耗：1,117.75kb] [文件加载：48]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:05:20+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.031220s] [吞吐率：32.03req/s] [内存消耗：1,143.26kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:05:59+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.022909s] [吞吐率：43.65req/s] [内存消耗：1,143.02kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:06:08+08:00] 127.0.0.1 GET 127.0.0.1/regi
+[运行时间：0.017536s] [吞吐率：57.03req/s] [内存消耗：1,143.27kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:09:08+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.020728s] [吞吐率：48.24req/s] [内存消耗：1,143.27kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:10:17+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.021187s] [吞吐率：47.20req/s] [内存消耗：1,143.27kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:16:21+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.021655s] [吞吐率：46.18req/s] [内存消耗：1,143.27kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:16:33+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.020848s] [吞吐率：47.97req/s] [内存消耗：1,143.02kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:16:49+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.018086s] [吞吐率：55.29req/s] [内存消耗：1,150.80kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:17:43+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.017722s] [吞吐率：56.43req/s] [内存消耗：1,143.27kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:25:26+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.022037s] [吞吐率：45.38req/s] [内存消耗：1,143.27kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:25:43+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.022049s] [吞吐率：45.35req/s] [内存消耗：1,143.22kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:31:18+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.019988s] [吞吐率：50.03req/s] [内存消耗：1,144.33kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:31:34+08:00] 127.0.0.1 GET 127.0.0.1/registe
+[运行时间：0.019871s] [吞吐率：50.32req/s] [内存消耗：1,144.33kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:31:45+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.017682s] [吞吐率：56.55req/s] [内存消耗：1,144.34kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:31:46+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.017067s] [吞吐率：58.59req/s] [内存消耗：1,144.34kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:35:24+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.022521s] [吞吐率：44.40req/s] [内存消耗：1,144.34kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:43:22+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.021934s] [吞吐率：45.59req/s] [内存消耗：1,144.30kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:43:53+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.020973s] [吞吐率：47.68req/s] [内存消耗：1,144.24kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:44:06+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.016918s] [吞吐率：59.11req/s] [内存消耗：1,144.24kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:44:31+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.016728s] [吞吐率：59.78req/s] [内存消耗：1,144.24kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:47:52+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.020710s] [吞吐率：48.29req/s] [内存消耗：1,144.34kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:48:08+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.027150s] [吞吐率：36.83req/s] [内存消耗：1,697.49kb] [文件加载：61]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '45',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123',
+  'remenber_me' => '1',
+  'username' => '598033097',
+)
+---------------------------------------------------------------
+
+[2020-04-16T17:49:39+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.060997s] [吞吐率：16.39req/s] [内存消耗：3,089.26kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'email' => '598033097@qq.com',
+  'role' => 'student',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003231s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012478s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '598033097@qq.com' LIMIT 1 [ RunTime:0.000700s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '598033097@qq.com' LIMIT 1 [ RunTime:0.000399s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '598033097@qq.com' , 'e10adc3949ba59abbe56e057f20f883e' , 'student') [ RunTime:0.001151s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:49:48+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.060191s] [吞吐率：16.61req/s] [内存消耗：3,120.66kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'email' => '598033097@qq.com',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010863s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.010674s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '598033097@qq.com' LIMIT 1 [ RunTime:0.000608s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:49:54+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.070496s] [吞吐率：14.19req/s] [内存消耗：3,089.28kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '104',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'email' => '59803309@qq.com',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011003s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.014699s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '59803309@qq.com' LIMIT 1 [ RunTime:0.000785s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '59803309@qq.com' LIMIT 1 [ RunTime:0.000728s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '59803309@qq.com' , 'e10adc3949ba59abbe56e057f20f883e' , 'teacher') [ RunTime:0.001214s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:49:59+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.057080s] [吞吐率：17.52req/s] [内存消耗：3,120.63kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '103',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'password' => '123456',
+  'password_confirm' => '12346',
+  'email' => '59803309@qq.com',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010659s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011793s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '59803309@qq.com' LIMIT 1 [ RunTime:0.000473s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:50:04+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.057780s] [吞吐率：17.31req/s] [内存消耗：3,120.63kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '103',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'password' => '123456',
+  'password_confirm' => '12346',
+  'email' => '59803309@qq.com',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010586s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011122s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '59803309@qq.com' LIMIT 1 [ RunTime:0.000449s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:50:08+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.057539s] [吞吐率：17.38req/s] [内存消耗：3,120.49kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '102',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'password' => '123456',
+  'password_confirm' => '12346',
+  'email' => '5980309@qq.com',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010306s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012137s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '5980309@qq.com' LIMIT 1 [ RunTime:0.000459s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:52:18+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.066976s] [吞吐率：14.93req/s] [内存消耗：3,089.25kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '104',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'email' => '59803097@qq.com',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010761s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011903s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '59803097@qq.com' LIMIT 1 [ RunTime:0.000453s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '59803097@qq.com' LIMIT 1 [ RunTime:0.000361s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '59803097@qq.com' , 'e10adc3949ba59abbe56e057f20f883e' , 'teacher') [ RunTime:0.000993s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:53:19+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.064350s] [吞吐率：15.54req/s] [内存消耗：3,120.66kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'register',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '104',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'email' => '59803097@qq.com',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010197s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011254s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '59803097@qq.com' LIMIT 1 [ RunTime:0.000470s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:53:43+08:00] 127.0.0.1 GET 127.0.0.1/login
+[运行时间：0.016332s] [吞吐率：61.23req/s] [内存消耗：1,144.33kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:53:57+08:00] 127.0.0.1 GET 127.0.0.1/login
+[运行时间：0.017494s] [吞吐率：57.16req/s] [内存消耗：1,144.33kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T17:54:04+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.058280s] [吞吐率：17.16req/s] [内存消耗：3,128.25kb] [文件加载：76]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010289s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011655s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `email` = '59803097@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000486s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:56:53+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.064920s] [吞吐率：15.40req/s] [内存消耗：3,123.84kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '5980397@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010794s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012775s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `email` = '5980397@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000586s ]
+---------------------------------------------------------------
+
+[2020-04-16T17:57:37+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.053418s] [吞吐率：18.72req/s] [内存消耗：3,123.84kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '5980397@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011029s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.005637s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `email` = '5980397@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000404s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:01:34+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.064520s] [吞吐率：15.50req/s] [内存消耗：3,123.34kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803397@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.009913s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011980s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803397@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000466s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:01:37+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.063750s] [吞吐率：15.69req/s] [内存消耗：3,123.34kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803397@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010971s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011867s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803397@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000466s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:02:05+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.056639s] [吞吐率：17.66req/s] [内存消耗：3,123.40kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '40',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '598033097@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010534s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011003s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '598033097@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000446s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:02:07+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.057529s] [吞吐率：17.38req/s] [内存消耗：3,123.40kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '40',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '598033097@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011265s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.010863s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '598033097@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000457s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:02:08+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.057783s] [吞吐率：17.31req/s] [内存消耗：3,123.38kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '40',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '598033097@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010819s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012154s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '598033097@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000470s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:02:27+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.059284s] [吞吐率：16.87req/s] [内存消耗：3,127.86kb] [文件加载：76]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010767s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012878s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803097@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000494s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:02:30+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.056988s] [吞吐率：17.55req/s] [内存消耗：3,127.88kb] [文件加载：76]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.com',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010471s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.010857s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803097@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000479s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:02:41+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.056380s] [吞吐率：17.74req/s] [内存消耗：3,123.36kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.cm',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010713s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011319s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803097@qq.cm'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000359s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:03:44+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.062027s] [吞吐率：16.12req/s] [内存消耗：3,123.70kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.cm',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010219s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.010873s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803097@qq.cm'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000622s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:05:52+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.064048s] [吞吐率：15.61req/s] [内存消耗：3,123.73kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.cm',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010751s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.010640s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803097@qq.cm'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000473s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:06:21+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.059733s] [吞吐率：16.74req/s] [内存消耗：3,123.72kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.cm',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011110s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012323s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803097@qq.cm'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000442s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:06:49+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.059743s] [吞吐率：16.74req/s] [内存消耗：3,123.73kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.cm',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011035s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011286s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803097@qq.cm'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000449s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:10:28+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.066449s] [吞吐率：15.05req/s] [内存消耗：3,123.72kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.cm',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010718s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.011512s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803097@qq.cm'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000478s ]
+---------------------------------------------------------------
+
+[2020-04-16T18:10:42+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.050315s] [吞吐率：19.87req/s] [内存消耗：3,123.73kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '38',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'origin' => 'http://127.0.0.1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'password' => '123456',
+  'email' => '59803097@qq.cm',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000850s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012137s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '59803097@qq.cm'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000467s ]
+---------------------------------------------------------------
+
+[2020-04-16T20:12:40+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.064746s] [吞吐率：15.44req/s] [内存消耗：3,124.50kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '40',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'email' => '598033097@qq.com',
+  'password' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002675s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012212s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '598033097@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000696s ]
+---------------------------------------------------------------
+
+[2020-04-16T20:12:42+08:00] 127.0.0.1 POST 127.0.0.1/login
+[运行时间：0.059593s] [吞吐率：16.78req/s] [内存消耗：3,124.47kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '40',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'email' => '598033097@qq.com',
+  'password' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010044s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.010653s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '598033097@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000458s ]
