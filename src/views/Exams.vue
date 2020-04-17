@@ -1,34 +1,6 @@
 <template>
   <el-row class="exams-container">
-    <header class="exams-header">
-      <img src="../assets/smxy-logo.png" alt="SMXY-Logo" />
-      <el-menu default-active="1" mode="horizontal">
-        <el-menu-item index="1">处理中心</el-menu-item>
-        <el-submenu index="2">
-          <template slot="title">我的工作台</template>
-          <el-menu-item index="2-1">选项1</el-menu-item>
-          <el-menu-item index="2-2">选项2</el-menu-item>
-          <el-menu-item index="2-3">选项3</el-menu-item>
-          <el-submenu index="2-4">
-            <template slot="title">选项4</template>
-            <el-menu-item index="2-4-1">选项1</el-menu-item>
-            <el-menu-item index="2-4-2">选项2</el-menu-item>
-            <el-menu-item index="2-4-3">选项3</el-menu-item>
-          </el-submenu>
-        </el-submenu>
-      </el-menu>
-      <el-dropdown>
-        <span class="el-dropdown-link">
-          <i class="el-icon-user"></i>
-          { username }
-        </span>
-        <el-dropdown-menu slot="dropdown">
-          <el-dropdown-item>个人信息</el-dropdown-item>
-          <el-dropdown-item>更新信息</el-dropdown-item>
-          <el-dropdown-item divided>登出</el-dropdown-item>
-        </el-dropdown-menu>
-      </el-dropdown>
-    </header>
+    <ex-header></ex-header>
     <el-carousel trigger="click" height="50vh" :autoplay="false">
       <el-carousel-item
         v-for="item in carousels"
@@ -64,8 +36,12 @@
 </template>
 
 <script>
+import Header from "../components/Header";
 export default {
   name: "exams",
+  components: {
+    "ex-header": Header
+  },
   data() {
     return {
       carousels: [
@@ -122,30 +98,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.exams-container {
-  color: #f8f8f8;
-}
-
-.exams-header {
-  height: 60px;
-  display: flex;
-  align-items: center;
-
-  img {
-    height: 80%;
-    margin-right: 3rem;
-  }
-
-  .el-dropdown {
-    flex: 1;
-    text-align: right;
-
-    .el-dropdown-link {
-      cursor: pointer;
-    }
-  }
-}
-
 .el-carousel__item {
   background-position: center;
   background-repeat: no-repeat;

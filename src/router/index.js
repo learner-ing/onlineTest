@@ -13,9 +13,9 @@ const routes = [
     component: Home
   },
   {
-    path: "/about",
-    name: "About",
-    component: () => import("../views/About.vue"),
+    path: "/user/:path",
+    name: "User",
+    component: () => import("../views/User.vue"),
     meta: {
       requireAuth: true
     }
@@ -31,12 +31,18 @@ const routes = [
   {
     path: "/register",
     name: "Register",
-    component: () => import("../views/Register.vue")
+    component: () => import("../views/Register.vue"),
+    meta: {
+      requireGuest: true
+    }
   },
   {
     path: "/exams",
     name: "Exams",
-    component: () => import("../views/Exams.vue")
+    component: () => import("../views/Exams.vue"),
+    meta: {
+      requireAuth: true
+    }
   }
 ];
 

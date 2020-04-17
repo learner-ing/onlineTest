@@ -16,6 +16,7 @@ html,
 body {
   padding: 0;
   margin: 0;
+  background-color: #f8f8f8;
 }
 
 .el-shadow {
@@ -45,6 +46,10 @@ body {
   }
   @media (min-width: 1560px) {
     max-width: 1400px;
+  }
+
+  .el-card__body {
+    width: 100%;
   }
 }
 </style>
