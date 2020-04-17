@@ -31,7 +31,7 @@
       />
     </el-form-item>
     <el-form-item class="submit">
-      <el-button type="primary" @click="submit" :loading="passwording">
+      <el-button type="primary" @click="submit" :loading="updateing">
         更新
       </el-button>
     </el-form-item>
@@ -39,6 +39,7 @@
 </template>
 
 <script>
+import { mapActions } from "vuex";
 export default {
   name: "user-password",
   data() {
@@ -98,12 +99,25 @@ export default {
     };
   },
   methods: {
+    ...mapActions("user", ["changePassword"]),
     submit(e) {
       this.$refs.passwordForm.validate(valid => {
         if (valid) {
           this.updateing = true;
-          // TODO: update
-          this.updateing = false;
+          this.changePassword(this.formData)
+            .then(res => {
+              this.updateing = false;
+              this.$notify.success({
+                title: "修改密码成功"
+              });
+            })
+            .catch(err => {
+              this.updateing = false;
+              this.$notify.error({
+                title: "修改密码失败",
+                message: err.data.error
+              });
+            });
         } else {
           console.log("error submit!");
           return false;

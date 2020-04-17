@@ -15,12 +15,6 @@
     <el-form-item prop="email" label="邮箱">
       <el-input type="text" v-model="formData.email" placeholder="邮箱" />
     </el-form-item>
-    <el-form-item prop="role" label="角色">
-      <el-select v-model="formData.role" placeholder="请选择角色">
-        <el-option label="学生" value="student"></el-option>
-        <el-option label="老师" value="teacher"></el-option>
-      </el-select>
-    </el-form-item>
     <el-form-item prop="password" label="密码">
       <el-input
         type="password"
@@ -37,6 +31,7 @@
 </template>
 
 <script>
+import { mapActions } from "vuex";
 export default {
   name: "user-update",
   data() {
@@ -45,8 +40,7 @@ export default {
       formData: {
         username: this.$store.state.user.user.username,
         email: this.$store.state.user.user.email,
-        password: "",
-        role: this.$store.state.user.user.role
+        password: ""
       },
       formRule: {
         username: [
@@ -86,12 +80,25 @@ export default {
     };
   },
   methods: {
+    ...mapActions("user", ["update"]),
     submit(e) {
       this.$refs.updateForm.validate(valid => {
         if (valid) {
           this.updateing = true;
-          // TODO: update
-          this.updateing = false;
+          this.update(this.formData)
+            .then(res => {
+              this.updateing = false;
+              this.$notify.success({
+                title: "更新成功"
+              });
+            })
+            .catch(err => {
+              this.updateing = false;
+              this.$notify.error({
+                title: "更新失败",
+                message: err.data.error
+              });
+            });
         } else {
           console.log("error submit!");
           return false;

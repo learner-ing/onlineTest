@@ -1,3 +1,3 @@
 export default {
-  baseURL: "http://test.djboke.top/api/"
+  baseURL: "https://djboke.top/online/public/api/"
 };

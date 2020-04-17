@@ -1,7 +1,8 @@
 import request from "../../utils/request";
 
 const types = {
-  SET_USER: "SET_USER"
+  SET_USER: "SET_USER",
+  UPDATE_USER: "UPDATE_USER"
 };
 
 const state = {
@@ -60,12 +61,49 @@ const actions = {
           reject(err.response);
         });
     });
+  },
+  update({ commit, state }, data) {
+    return new Promise((resolve, reject) => {
+      request
+        .put("/users", data)
+        .then(res => {
+          if (res.data.error === false) {
+            commit(types.UPDATE_USER, data);
+            resolve(res);
+          } else {
+            reject(res);
+          }
+        })
+        .catch(err => {
+          reject(err.response);
+        });
+    });
+  },
+  changePassword({ commit }, data) {
+    return new Promise((resolve, reject) => {
+      request
+        .put("/password", data)
+        .then(res => {
+          if (res.data.error === false) {
+            resolve(res);
+          } else {
+            reject(res);
+          }
+        })
+        .catch(err => {
+          reject(err.response);
+        });
+    });
   }
 };
 
 const mutations = {
   [types.SET_USER](state, user) {
     state.user = user;
+  },
+  [types.UPDATE_USER](state, user) {
+    state.user.username = user.username;
+    state.user.email = user.email;
   }
 };
 
