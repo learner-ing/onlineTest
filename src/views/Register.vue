@@ -36,7 +36,7 @@
           <el-input
             type="password"
             v-model="formData.password_confirm"
-            placeholder="确认"
+            placeholder="确认密码"
           />
         </el-form-item>
         <el-form-item prop="role" label="角色">

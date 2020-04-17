@@ -24,6 +24,7 @@
       <el-dropdown-menu slot="dropdown">
         <el-dropdown-item command="showInfo">个人信息</el-dropdown-item>
         <el-dropdown-item command="updateInfo">更新信息</el-dropdown-item>
+        <el-dropdown-item command="changePassword">更改密码</el-dropdown-item>
         <el-dropdown-item divided command="logout">登出</el-dropdown-item>
       </el-dropdown-menu>
     </el-dropdown>
@@ -45,6 +46,9 @@ export default {
       }
       if (command === "updateInfo") {
         this.$router.push({ path: "/user/update" });
+      }
+      if (command === "changePassword") {
+        this.$router.push({ path: "/user/password" });
       }
       if (command === "logout") {
         this.logout()

@@ -17,11 +17,16 @@
             <i class="el-icon-edit-outline"></i>
             <span slot="title">更新信息</span>
           </el-menu-item>
+          <el-menu-item index="password">
+            <i class="el-icon-lock"></i>
+            <span slot="title">修改密码</span>
+          </el-menu-item>
         </el-menu>
       </el-col>
       <el-col :md="18" class="right">
         <user-index v-if="path === 'index'"></user-index>
         <user-update v-if="path === 'update'"></user-update>
+        <user-password v-if="path === 'password'"></user-password>
       </el-col>
     </el-card>
   </div>
@@ -31,12 +36,14 @@
 import Header from "../components/Header";
 import UserIndex from "../components/user/Index";
 import UserUpdate from "../components/user/Update";
+import UserPassword from "../components/user/Password";
 export default {
   name: "user",
   components: {
     "ex-header": Header,
     "user-index": UserIndex,
-    "user-update": UserUpdate
+    "user-update": UserUpdate,
+    "user-password": UserPassword
   },
   computed: {
     path() {
