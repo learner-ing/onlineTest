@@ -85,8 +85,8 @@ export default {
               this.logining = false;
               this.$refs.loginForm.resetFields();
               this.$notify.error({
-                title: "错误",
-                message: err.error
+                title: "登录失败",
+                message: err.data.error
               });
             });
         } else {

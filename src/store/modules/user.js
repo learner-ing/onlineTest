@@ -24,7 +24,7 @@ const actions = {
           }
         })
         .catch(err => {
-          reject(err);
+          reject(err.response);
         });
     });
   },
@@ -41,7 +41,23 @@ const actions = {
           }
         })
         .catch(err => {
-          reject(err);
+          reject(err.response);
+        });
+    });
+  },
+  register({ commit, state }, data) {
+    return new Promise((resolve, reject) => {
+      request
+        .post("/register", data)
+        .then(res => {
+          if (res.data.error === false) {
+            resolve(res);
+          } else {
+            reject(res);
+          }
+        })
+        .catch(err => {
+          reject(err.response);
         });
     });
   }

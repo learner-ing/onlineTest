@@ -15,6 +15,13 @@
         label-width="20%"
       >
         <h3 class="title">系统注册</h3>
+        <el-form-item prop="username" label="姓名">
+          <el-input
+            type="text"
+            v-model="formData.username"
+            placeholder="姓名"
+          />
+        </el-form-item>
         <el-form-item prop="email" label="邮箱">
           <el-input type="text" v-model="formData.email" placeholder="邮箱" />
         </el-form-item>
@@ -32,6 +39,12 @@
             placeholder="确认"
           />
         </el-form-item>
+        <el-form-item prop="role" label="角色">
+          <el-select v-model="formData.role" placeholder="请选择角色">
+            <el-option label="学生" value="student"></el-option>
+            <el-option label="老师" value="teacher"></el-option>
+          </el-select>
+        </el-form-item>
         <el-form-item class="submit" label-width="0">
           <el-button type="primary" @click="submit" :loading="registering">
             注册
@@ -43,17 +56,27 @@
 </template>
 
 <script>
+import { mapActions } from "vuex";
 export default {
   name: "register",
   data() {
     return {
       registering: false,
       formData: {
+        username: "",
         email: "",
         password: "",
-        password_confirm: ""
+        password_confirm: "",
+        role: "student"
       },
       formRule: {
+        username: [
+          {
+            required: true,
+            message: "请输入姓名",
+            trigger: "blur"
+          }
+        ],
         email: [
           {
             required: true,
@@ -101,11 +124,28 @@ export default {
     };
   },
   methods: {
+    ...mapActions("user", ["register"]),
     submit(e) {
       this.$refs.registerForm.validate(valid => {
         if (valid) {
           this.registering = true;
-          console.log(this.formData);
+          this.register(this.formData)
+            .then(res => {
+              this.$notify.success({
+                title: "注册成功",
+                message: "注册成功，即将跳转登录页",
+                duration: 2000,
+                onClose: () => {
+                  this.$router.push({ path: "/login" });
+                }
+              });
+            })
+            .catch(err => {
+              this.$notify.error({
+                title: "注册失败",
+                message: err.data.error
+              });
+            });
           this.registering = false;
         } else {
           console.log("error submit!");
