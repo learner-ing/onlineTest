@@ -3397,3 +3397,1922 @@
 [ sql ] [ DB ] CONNECT:[ UseTime:0.010044s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
 [ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.010653s ]
 [ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '598033097@qq.com'  AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1 [ RunTime:0.000458s ]
+---------------------------------------------------------------
+
+[2020-04-16T21:35:56+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.031524s] [吞吐率：31.72req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:37:42+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.027489s] [吞吐率：36.38req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:37:43+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.024696s] [吞吐率：40.49req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:37:55+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.029219s] [吞吐率：34.22req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:37:56+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.030289s] [吞吐率：33.02req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:37:57+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.030497s] [吞吐率：32.79req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:37:57+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.022789s] [吞吐率：43.88req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:37:57+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.024763s] [吞吐率：40.38req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:37:58+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.023314s] [吞吐率：42.89req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:37:58+08:00] 127.0.0.1 GET 127.0.0.1/register
+[运行时间：0.024528s] [吞吐率：40.77req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:38:34+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.023231s] [吞吐率：43.05req/s] [内存消耗：1,154.09kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:38:45+08:00] 127.0.0.1 GET 127.0.0.1/api/register
+[运行时间：0.024515s] [吞吐率：40.79req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:38:48+08:00] 127.0.0.1 POST 127.0.0.1/register
+[运行时间：0.025036s] [吞吐率：39.94req/s] [内存消耗：1,154.09kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:39:09+08:00] 127.0.0.1 POST 127.0.0.1/api/register
+[运行时间：0.023511s] [吞吐率：42.53req/s] [内存消耗：1,154.09kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:40:02+08:00] 127.0.0.1 POST 127.0.0.1/api/register
+[运行时间：0.027750s] [吞吐率：36.04req/s] [内存消耗：1,154.09kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:40:03+08:00] 127.0.0.1 POST 127.0.0.1/api/register
+[运行时间：0.023010s] [吞吐率：43.46req/s] [内存消耗：1,154.09kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T21:40:18+08:00] 127.0.0.1 POST 127.0.0.1/api/register
+[运行时间：0.071966s] [吞吐率：13.90req/s] [内存消耗：3,091.58kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/registe',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/api/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001224s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013746s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '314591352@qq.com' LIMIT 1 [ RunTime:0.000652s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '314591352@qq.com' LIMIT 1 [ RunTime:0.000625s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('杜军' , '314591352@qq.com' , 'e10adc3949ba59abbe56e057f20f883e' , 'teacher') [ RunTime:0.000683s ]
+---------------------------------------------------------------
+
+[2020-04-16T21:40:27+08:00] 127.0.0.1 POST 127.0.0.1/api/register
+[运行时间：0.070505s] [吞吐率：14.18req/s] [内存消耗：3,122.98kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/registe',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '105',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/api/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '杜军',
+  'email' => '314591352@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010201s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.012643s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '314591352@qq.com' LIMIT 1 [ RunTime:0.000577s ]
+---------------------------------------------------------------
+
+[2020-04-16T22:01:34+08:00] 127.0.0.1 GET 127.0.0.1/admin
+[运行时间：0.027737s] [吞吐率：36.05req/s] [内存消耗：1,154.20kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T22:01:42+08:00] 127.0.0.1 GET 127.0.0.1/api/register
+[运行时间：0.032745s] [吞吐率：30.54req/s] [内存消耗：1,154.26kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T22:04:39+08:00] 127.0.0.1 POST 127.0.0.1/api/register
+[运行时间：0.078236s] [吞吐率：12.78req/s] [内存消耗：3,124.95kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/registe',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '103',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/api/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '测试',
+  'email' => '12345789@qq.com',
+  'password' => '123456',
+  'password_confirm' => '23456',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010550s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013221s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '12345789@qq.com' LIMIT 1 [ RunTime:0.000649s ]
+---------------------------------------------------------------
+
+[2020-04-16T22:04:48+08:00] 127.0.0.1 POST 127.0.0.1/api/register
+[运行时间：0.161109s] [吞吐率：6.21req/s] [内存消耗：3,093.79kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/registe',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '104',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/api/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '测试',
+  'email' => '12345789@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011037s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013249s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '12345789@qq.com' LIMIT 1 [ RunTime:0.000540s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '12345789@qq.com' LIMIT 1 [ RunTime:0.000492s ]
+[ sql ] [ SQL ] INSERT INTO `user` (`username` , `email` , `password` , `role`) VALUES ('测试' , '12345789@qq.com' , '$2y$10$Pm5sDK151k78sZ0d8NyzeOqEzgUl60QrRcNAKamdf.EWucVHlyCQy' , 'teacher') [ RunTime:0.000605s ]
+---------------------------------------------------------------
+
+[2020-04-16T22:04:54+08:00] 127.0.0.1 POST 127.0.0.1/api/register
+[运行时间：0.062063s] [吞吐率：16.11req/s] [内存消耗：3,125.05kb] [文件加载：75]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/registe',
+  'route' => 'index/index/register',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '104',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/api/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'username' => '测试',
+  'email' => '12345789@qq.com',
+  'password' => '123456',
+  'password_confirm' => '123456',
+  'role' => 'teacher',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001057s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.014073s ]
+[ sql ] [ SQL ] SELECT `id` FROM `user` WHERE  `email` = '12345789@qq.com' LIMIT 1 [ RunTime:0.000591s ]
+---------------------------------------------------------------
+
+[2020-04-16T22:07:16+08:00] 127.0.0.1 POST 127.0.0.1/api/login
+[运行时间：0.077638s] [吞吐率：12.88req/s] [内存消耗：3,175.83kb] [文件加载：78]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/api/register',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'email' => '12345789@qq.com',
+  'password' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010926s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.005095s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '12345789@qq.com' LIMIT 1 [ RunTime:0.000585s ]
+[ error ] [0]类的属性不存在:app\index\model\User->password[C:\xampp\test\thinkphp\library\think\model\concern\Attribute.php:559]
+---------------------------------------------------------------
+
+[2020-04-16T22:08:14+08:00] 127.0.0.1 POST 127.0.0.1/api/login
+[运行时间：0.078890s] [吞吐率：12.68req/s] [内存消耗：3,175.84kb] [文件加载：78]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/api/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'email' => '12345789@qq.com',
+  'password' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010286s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.007474s ]
+[ sql ] [ SQL ] SELECT `id`,`username`,`email`,`role` FROM `user` WHERE  `email` = '12345789@qq.com' LIMIT 1 [ RunTime:0.000628s ]
+[ error ] [0]类的属性不存在:app\index\model\User->password[C:\xampp\test\thinkphp\library\think\model\concern\Attribute.php:559]
+---------------------------------------------------------------
+
+[2020-04-16T22:10:53+08:00] 127.0.0.1 POST 127.0.0.1/api/login
+[运行时间：0.148316s] [吞吐率：6.74req/s] [内存消耗：3,131.52kb] [文件加载：76]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/api/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'email' => '12345789@qq.com',
+  'password' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010293s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.004988s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `email` = '12345789@qq.com' LIMIT 1 [ RunTime:0.000642s ]
+---------------------------------------------------------------
+
+[2020-04-16T22:13:16+08:00] 127.0.0.1 POST 127.0.0.1/api/login
+[运行时间：0.159759s] [吞吐率：6.26req/s] [内存消耗：3,131.84kb] [文件加载：76]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/login',
+  'route' => 'index/index/login',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'content-length' => '39',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://127.0.0.1',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'same-origin',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'referer' => 'http://127.0.0.1/api/login',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=map59u3id5r8bvgrtj1hsa48rp',
+)
+[ info ] [ PARAM ] array (
+  'email' => '12345789@qq.com',
+  'password' => '123456',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010066s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013122s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `email` = '12345789@qq.com' LIMIT 1 [ RunTime:0.000624s ]
+---------------------------------------------------------------
+
+[2020-04-16T22:51:26+08:00] 127.0.0.1 GET 127.0.0.1/api/login
+[运行时间：0.030167s] [吞吐率：33.15req/s] [内存消耗：1,154.26kb] [文件加载：50]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2020-04-16T23:46:06+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.043833s] [吞吐率：22.81req/s] [内存消耗：1,749.82kb] [文件加载：63]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [64]Constant expression contains invalid operations[C:\xampp\test\application\common\controller\Base.php:11]
+---------------------------------------------------------------
+
+[2020-04-16T23:46:36+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.075094s] [吞吐率：13.32req/s] [内存消耗：2,966.14kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003483s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.007657s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = $id LIMIT 1 [ RunTime:0.001052s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:47:49+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.042495s] [吞吐率：23.53req/s] [内存消耗：1,699.38kb] [文件加载：61]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]语法解析错误: syntax error, unexpected 'if' (T_IF)[C:\xampp\test\application\index\controller\User.php:14]
+---------------------------------------------------------------
+
+[2020-04-16T23:48:40+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.091302s] [吞吐率：10.95req/s] [内存消耗：2,966.28kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011435s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.014113s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = $id LIMIT 1 [ RunTime:0.000781s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:48:51+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.082400s] [吞吐率：12.14req/s] [内存消耗：2,966.30kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010616s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.005835s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = $id LIMIT 1 [ RunTime:0.000561s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:49:04+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.078476s] [吞吐率：12.74req/s] [内存消耗：2,966.30kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011260s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013387s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = $id LIMIT 1 [ RunTime:0.000683s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:49:05+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.079901s] [吞吐率：12.52req/s] [内存消耗：2,966.28kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010026s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013881s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = $id LIMIT 1 [ RunTime:0.000572s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:50:28+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.074823s] [吞吐率：13.36req/s] [内存消耗：2,966.13kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010355s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013179s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = $id LIMIT 1 [ RunTime:0.000608s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:50:30+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.079689s] [吞吐率：12.55req/s] [内存消耗：2,966.13kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010771s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.014074s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = $id LIMIT 1 [ RunTime:0.000550s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:50:31+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.078337s] [吞吐率：12.77req/s] [内存消耗：2,966.13kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011106s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013468s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = $id LIMIT 1 [ RunTime:0.000779s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:50:41+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.069186s] [吞吐率：14.45req/s] [内存消耗：2,964.83kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000830s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.006027s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = $id LIMIT 1 [ RunTime:0.000575s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:51:07+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.078812s] [吞吐率：12.69req/s] [内存消耗：2,965.44kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010082s ] mysql:host=127.0.0.1;dbname=online_test;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `user` [ RunTime:0.013841s ]
+[ sql ] [ SQL ] SELECT * FROM `user` WHERE  `id` = 15 LIMIT 1 [ RunTime:0.000606s ]
+---------------------------------------------------------------
+
+[2020-04-16T23:51:49+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.055065s] [吞吐率：18.16req/s] [内存消耗：2,897.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:51:50+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.055141s] [吞吐率：18.14req/s] [内存消耗：2,897.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:51:54+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.076637s] [吞吐率：13.05req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:51:55+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.046904s] [吞吐率：21.32req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:52:14+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.053779s] [吞吐率：18.59req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:52:14+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.054619s] [吞吐率：18.31req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:52:25+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.045847s] [吞吐率：21.81req/s] [内存消耗：2,896.52kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:54:35+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.060323s] [吞吐率：16.58req/s] [内存消耗：2,897.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:54:36+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.054353s] [吞吐率：18.40req/s] [内存消耗：2,897.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:54:42+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.057314s] [吞吐率：17.45req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:54:43+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.047573s] [吞吐率：21.02req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:55:03+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.053251s] [吞吐率：18.78req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:55:04+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.050205s] [吞吐率：19.92req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:55:04+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.052064s] [吞吐率：19.21req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:56:30+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.043062s] [吞吐率：23.22req/s] [内存消耗：1,766.63kb] [文件加载：67]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [8]Undefined property: app\index\controller\User::$data[C:\xampp\test\application\common\controller\Base.php:15]
+---------------------------------------------------------------
+
+[2020-04-16T23:57:06+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.062771s] [吞吐率：15.93req/s] [内存消耗：2,897.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:57:47+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.060873s] [吞吐率：16.43req/s] [内存消耗：2,897.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:57:48+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.051789s] [吞吐率：19.31req/s] [内存消耗：2,897.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:57:48+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.050773s] [吞吐率：19.70req/s] [内存消耗：2,897.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:57:48+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.050389s] [吞吐率：19.85req/s] [内存消耗：2,897.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:57:53+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.068174s] [吞吐率：14.67req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:57:54+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.051676s] [吞吐率：19.35req/s] [内存消耗：2,896.66kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:58:17+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.051839s] [吞吐率：19.29req/s] [内存消耗：2,896.91kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:58:44+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.053428s] [吞吐率：18.72req/s] [内存消耗：2,896.60kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'PHPSESSID=qsqlbbnqanfi7hpjfsahmgaca0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:59:04+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.046060s] [吞吐率：21.71req/s] [内存消耗：2,897.55kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:59:14+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.061063s] [吞吐率：16.38req/s] [内存消耗：2,897.55kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:59:15+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.055547s] [吞吐率：18.00req/s] [内存消耗：2,897.55kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:59:35+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.052927s] [吞吐率：18.89req/s] [内存消耗：2,897.79kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+---------------------------------------------------------------
+
+[2020-04-16T23:59:36+08:00] 127.0.0.1 GET 127.0.0.1/api/users
+[运行时间：0.055052s] [吞吐率：18.16req/s] [内存消耗：2,897.79kb] [文件加载：74]
+[ info ] [ LANG ] C:\xampp\test\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'api/users',
+  'route' => 'index/user/getUser',
+  'option' => 
+  array (
+    'merge_rule_regex' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '127.0.0.1',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36',
+  'sec-fetch-dest' => 'document',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'sec-fetch-site' => 'none',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'UM_distinctid=1714ef8df0d409-04a55214c88a45-5437971-4a574-1714ef8df0e430; CNZZDATA5391996=cnzz_eid%3D1978456378-1586788624-http%253A%252F%252F127.0.0.1%252F%26ntime%3D1586788624; PHPSESSID=7369ikm9mqege0ustocdbrnslj',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql

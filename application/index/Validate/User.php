@@ -11,7 +11,7 @@ class User extends Validate
         'username|用户名' => 'require|max:10',
         'email|邮箱'=>'require|email|max:30',
         'password|密码' => 'require',
-        'passwordConfirm|密码'=>'require|confirm:password',
+        'passwordConfirm|确认密码'=>'require|confirm:password',
         'rememberMe' => 'boolean',
         'role|角色'=>'require'
     ];
@@ -21,6 +21,10 @@ class User extends Validate
     }
     public function sceneRegister()
     {
-        return $this->only(['password','passwordConfirm','rememberMe','role','email'])->append('email', 'unique:user');
+        return $this->only(['username','password','passwordConfirm','rememberMe','role','email'])->append('email', 'unique:user');
+    }
+    public function sceneChangeInfo()//验证更新的用户信息
+    {
+        return $this->only(['email','username']);
     }
 }
